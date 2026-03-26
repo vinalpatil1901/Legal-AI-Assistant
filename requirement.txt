@@ -1,4 +1,5 @@
-langchain 
+langchain
+langchain-community
 langchain-openai
 langchain-core
 openai
@@ -8,3 +9,8 @@ huggingface-hub
 python-dotenv
 numpy
 scikit-learn
+faiss-cpu
+pypdf
+streamlit
+beautifulsoup4
+requests
