@@ -1,4 +1,4 @@
-# legal-ai-assistant
+# legal-AI-Assistant
 
 # Legal AI Assistant
 
