@@ -14,4 +14,3 @@ pypdf
 streamlit
 beautifulsoup4
 requests
-langchain-openai
